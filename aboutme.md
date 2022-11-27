@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Master of Science in Health Data Science at Harvard University
+title: Tony Ding
+subtitle: MS in Health Data Science at Harvard University
 ---
 
 My name is Tony Ding. I have the following qualities:
