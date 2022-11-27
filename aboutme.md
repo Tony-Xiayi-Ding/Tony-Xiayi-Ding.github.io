@@ -4,12 +4,10 @@ title: Tony Ding
 subtitle: MS in Health Data Science at Harvard University
 ---
 
-My name is Tony Ding. I have the following qualities:
+My name is Tony Ding. And this website is currently dedicated to demonstrate the results of my BST-260 Final Project.
 
 - I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
