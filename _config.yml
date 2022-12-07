@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Tony Ding BST260 GitHub Page
+title: Tony Ding's Personal Website
 
 # Your name to show in the footer
-author: Some Person
+author: Tony Ding
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,8 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - BST-260 Final Project: "https://tony-xiayi-ding.github.io/BST260-Final-Projecet/"
 
 ################
 # --- Logo --- #
