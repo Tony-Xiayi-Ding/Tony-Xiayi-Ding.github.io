@@ -15,12 +15,12 @@ Patients diagnosed with diabetes have to monitor and manage their blood sugar le
 **You can also click this [link](https://colab.research.google.com/drive/1MZb4R1nWX-qvdsH-_v-HjSxYEhjN6Yxx?usp=sharing) to access this project's Colab Notebook.**
 
 
-## Here is a secondary heading
+## Results
 
 
-How about a yummy crepe?
+Shapley values for the XGboost model trained on the original dataset:
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Shapley_Value](https://github.com/Tony-Xiayi-Ding/Tony-Xiayi-Ding.github.io/blob/4f574eaa155583130bd5b8dc2b49b904a1c373cc/assets/img/Shapley_Values.png)
 
 It can also be centered!
 
