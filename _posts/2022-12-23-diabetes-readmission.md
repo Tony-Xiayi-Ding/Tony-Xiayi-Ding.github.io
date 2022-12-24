@@ -10,7 +10,7 @@ comments: true
 Patients diagnosed with diabetes have to monitor and manage their blood sugar levels constantly for the rest of their lives; and if not well-monitored, individuals may be readmitted healthcare facilities due to complications. Despite concerns about the financial expenses of readmission and the prevalence of diabetes, readmission among diabetes patients is not well studied. Moreover, previous studies have indicated that racial minorities and members of lower socioeconomic status are less likely to be readmitted. This project aims to explore predictive models for the readmission of diabetic patients as well as to determine if there are any potential biases in the decision-making processes of these models.
 
 
-**The orginal manuscript of this project report can be accessed through this [link](https://drive.google.com/file/d/19dbF3Kllqg-JfCwr1e3EauXMCFul5hM6/view?usp=share_link).**
+**The orginal manuscript of this project can be accessed through this [link](https://drive.google.com/file/d/19dbF3Kllqg-JfCwr1e3EauXMCFul5hM6/view?usp=share_link).**
 
 
 ## Here is a secondary heading
