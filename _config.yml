@@ -50,29 +50,17 @@ round-avatar: true
 social-network-links:
   email: "xiayiding@hsph.harvard.edu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+# facebook: deanattali
   github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: xiayi-tony-ding-abb112177/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
   telephone: +12132455570
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -96,7 +84,7 @@ share-links-active:
 # url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 100
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
