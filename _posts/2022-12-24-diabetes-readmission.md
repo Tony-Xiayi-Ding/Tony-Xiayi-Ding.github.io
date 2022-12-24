@@ -4,6 +4,7 @@ title: Diabetes Readmission Prediction
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/diabetes.jpeg
+thumbnail-img: /assets/img/diabetes.jpeg
 share-img: /assets/img/diabetes.jpeg
 tags: [Python, Machine Learning]
 comments: true
