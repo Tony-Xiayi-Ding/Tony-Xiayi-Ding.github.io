@@ -3,7 +3,6 @@ layout: post
 title: Diabetes Readmission Prediction
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Python, Machine Learning]
 comments: true
 ---
