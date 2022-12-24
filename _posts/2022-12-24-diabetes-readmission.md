@@ -25,6 +25,7 @@ Despite concerns about the financial expenses of hospital readmission and the pr
 ### Random Forest
 
 
+
 ## Additional Evaluations
 
 Shapley values for the XGboost model trained on the original dataset:
@@ -41,10 +42,11 @@ Feature importance for the random forest model trained on the original dataset:
 ????
 
 
+
 **FYI:**
 
-The manuscript for this project can be accessed through this **[link](https://drive.google.com/file/d/19dbF3Kllqg-JfCwr1e3EauXMCFul5hM6/view?usp=share_link)**.
+  -The manuscript for this project can be accessed through this **[link](https://drive.google.com/file/d/19dbF3Kllqg-JfCwr1e3EauXMCFul5hM6/view?usp=share_link)**.
 
-You can also click this [link](https://colab.research.google.com/drive/1MZb4R1nWX-qvdsH-_v-HjSxYEhjN6Yxx?usp=sharing) to access this project's Colab Notebook.
+  -You can also click this **[link](https://colab.research.google.com/drive/1MZb4R1nWX-qvdsH-_v-HjSxYEhjN6Yxx?usp=sharing)** to access this project's Colab Notebook.
 
 
