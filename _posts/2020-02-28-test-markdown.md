@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Diabetes Readmission Prediction
-subtitle: Report
+subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [Python, Machine Learning]
 comments: true
 ---
 
-Diabetes is a chronic health condition where the body does not respond to or does not generate enough insulin in the body, resulting in issues with regulating blood sugar. Patients diagnosed with diabetes must monitor and manage their blood sugar levels for the rest of their lives; and if not controlled well, individuals may be readmitted to a healthcare system due to complications. Despite concerns about the economics of readmission and the prevalence of diabetes, readmission among diabetes patients is not well studied. Moreover, readmission can be a possible measure of healthcare quality, and previous studies have indicated that racial minorities and members of lower socioeconomic status are less likely to be readmitted. This project explores predictive models for the readmission of diabetic patients and also aims to determine if there are any potential biases in the decision-making process of the models.
+Patients diagnosed with diabetes have to monitor and manage their blood sugar levels constantly for the rest of their lives; and if not well-monitored, individuals may be readmitted healthcare facilities due to complications. Despite concerns about the financial expenses of readmission and the prevalence of diabetes, readmission among diabetes patients is not well studied. Moreover, previous studies have indicated that racial minorities and members of lower socioeconomic status are less likely to be readmitted. This project aims to explore predictive models for the readmission of diabetic patients as well as to determine if there are any potential biases in the decision-making processes of these models.
 
 
 **Here is some bold text**
