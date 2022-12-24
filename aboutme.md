@@ -6,7 +6,7 @@ subtitle: MS in Health Data Science at Harvard University
 
 ### My story
 
-I am currently a first year Master's student at Harvard University Department of Biostatistics, and I am also cross registering at MIT EECS Department. You can reach me through ***xiayiding@hsph.harvard.edu*** or ***tding@mit.edu***.
+I am currently a first year Master's student at Harvard University Department of Biostatistics, and I am also cross registered at MIT EECS Department. You can reach me through ***xiayiding@hsph.harvard.edu*** or ***tding@mit.edu***.
 
 This personal website is dedicated to showcase some of the projects that I've done recently. Here's a list of my projects that are on this website:
 
