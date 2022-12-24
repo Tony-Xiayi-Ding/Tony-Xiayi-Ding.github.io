@@ -20,7 +20,7 @@ Patients diagnosed with diabetes have to monitor and manage their blood sugar le
 
 Shapley values for the XGboost model trained on the original dataset:
 
-![Shapley_Value](https://github.com/Tony-Xiayi-Ding/Tony-Xiayi-Ding.github.io/blob/4f574eaa155583130bd5b8dc2b49b904a1c373cc/assets/img/Shapley_Values.png)
+![Shapley_Value](/assets/img/Shapley_Values.png)
 
 It can also be centered!
 
