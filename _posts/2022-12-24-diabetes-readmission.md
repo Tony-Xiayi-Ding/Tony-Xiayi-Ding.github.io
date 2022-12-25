@@ -36,6 +36,7 @@ Feature importance for the random forest model trained on the original dataset:
 
 ![Feature_Importance](/assets/img/Feature_Importance.png)
 
+[BST-222 Syllabus](/assets/img/Syllabus_BST-222_Fall2021.pdf)
 
 ## Conclusions and Discussion
 
