@@ -46,7 +46,7 @@ Feature importance for the random forest model trained on the original dataset:
 
 **FYI:**
 
-  -The manuscript for this project can be accessed through this [link](/assets/pdf/Diabetes_Readmission_Prediction_Report.pdf).
+  -The manuscript for this project can be accessed through this [link](/assets/pdf/Diabetes_Readmission_Prediction.pdf).
 
   -You can also click this [link](https://colab.research.google.com/drive/1MZb4R1nWX-qvdsH-_v-HjSxYEhjN6Yxx?usp=sharing) to access this project's Colab Notebook.
 
