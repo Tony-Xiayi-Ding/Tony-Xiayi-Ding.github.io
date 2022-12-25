@@ -21,6 +21,9 @@ comments: true
 
 ### Logistic Regression
 
+ROC curves for logistic regression models with L2 and L1 penalizations:
+
+![LGR_ROC](/assets/img/Logistic_Regression_ROC_Curves.png)
 
 ### XGBoost
 
