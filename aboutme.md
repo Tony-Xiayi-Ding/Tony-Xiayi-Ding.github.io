@@ -11,7 +11,6 @@ I am currently a first year Master's student at Harvard University Department of
 This personal website is dedicated to showcase some of the projects that I've done recently. Here's a list of my projects that are on this website:
 
 - Project 1: My BST-260 Final Project on All-NBA teams prediction (using R). 
-  - I chose this project because I'm a huge fan of basketball🏀.
 - Project 2: Diabetes Readmission Prediction (using Python)
 
 
