@@ -62,9 +62,12 @@ Feature importance for the random forest model trained on the original dataset:
 ![Feature_Importance](/assets/img/Feature_Importance.png)
 
 
-For the random forest model without oversampling or undersampling, the precision is the lowest for Caucasians, followed by African Americans, and finally other races. The recall is exactly the reverse: Caucasians have the highest recall, followed by African Americans, and finally other races. Based on the definitions of precision and recall, we can interpret our findings as **there were more Caucasian patients being readmitted to the hospital than actually needed(i.e. there are more false positives for Caucasian patients)**. 
+For the random forest model without oversampling or undersampling, the precision is the lowest for Caucasians, followed by African Americans, and finally other races. The recall is exactly the reverse: Caucasians have the highest recall, followed by African Americans, and finally other races. When looking at recall, we could see African American patients as well as patients of other races usually have a relatively lower recall than Caucasian patients. Based on the definitions of precision and recall, we can interpret our findings as:
 
-When looking at recall, we could see African American patients as well as patients of other races usually have a relatively lower recall than Caucasian patients. This can be interpreted as **non-Caucasian patients who should be readmitted to the hospital are not predicted by the model to experience readmittance as often compared to Caucasian patients(i.e. more false negatives for non-Caucasian patients)**. For this situation, it is more beneficial to err on having higher false positives, rather than higher false negatives, because we would prefer to provide patients with additional resources who may not necessarily need them, rather than missing any patients that would actually need additional medical assistance.
+- **There were more Caucasian patients being readmitted to the hospital than actually needed(i.e. there are more false positives for Caucasian patients)**. 
+
+- **Non-Caucasian patients who should be readmitted to the hospital are not predicted by the model to experience readmittance as often compared to Caucasian patients(i.e. more false negatives for non-Caucasian patients)**. 
+    - For this situation, however, it is more beneficial to err on having higher false positives, rather than higher false negatives. This is because we would prefer to provide patients with additional resources who may not necessarily need them, rather than missing any patients that would actually need additional medical assistance.
 
 
 ## Conclusion and Discussion
