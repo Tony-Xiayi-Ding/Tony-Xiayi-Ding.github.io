@@ -44,7 +44,9 @@ ROC curves for XGBoost models trained on the original dataset, oversampled datas
 Lastly, for XGBoost, the highest AUC score, 0.638, was achieved by the model trained on the original dataset, followed by the model trained on the undersampled dataset with an AUC score of 0.636. The model trained on the oversampled dataset had the lowest AUC score of 0.566 among the three XGBoost models.
 
 
-## Additional Evaluations
+## Additional Model Evaluations
+
+Lastly, because machine learning models like random forest and XGBoost are difficult to interpret, we hope to distinguish the bias using feature importance for the random forest model and SHAP/Shapley values for the XGBoost model to understand our models’ decision making processes.
 
 Shapley values for the XGboost model trained on the original dataset:
 
@@ -55,10 +57,16 @@ Feature importance for the random forest model trained on the original dataset:
 ![Feature_Importance](/assets/img/Feature_Importance.png)
 
 
+For the random forest model without oversampling or undersampling, the precision is the lowest for Caucasians, followed by African Americans, and finally other races. The recall is exactly the reverse: Caucasians have the highest recall, followed by African Americans, and finally other races. Based on the definitions of precision and recall, we can interpret our findings as there were more Caucasian patients being readmitted to the hospital than actually needed(i.e. there are more false positives for Caucasian patients). When looking at recall, we could see African American patients as well as patients of other races usually have a relatively lower recall than Caucasian patients. This can be interpreted as non-Caucasian patients who should be readmitted to the hospital are not predicted by the model to experience readmittance as often compared to Caucasian patients(i.e. more false negatives for non-Caucasian patients). For this situation, it is more beneficial to err on having higher false positives, rather than higher false negatives, because we would prefer to provide patients with additional resources who may not necessarily need them, rather than missing any patients that would actually need additional medical assistance.
 
-## Conclusions and Discussion
 
-????
+## Conclusion and Discussion
+
+Through our exploration of model performance metrics and analysis of various machine learning algorithms, we found that model designs for building a predictive program on a diabetes hospital readmissions dataset can introduce a certain amount of bias. Overall, the models presented less-than-desirable predictive performance, and different degrees of bias were observed depending on the model design. Comparing the XGBoost and random forest models, the XGBoost models tend to have more equitable predictions while still maintaining comparable predictive ability. Preprocessing methods, such as oversampling and undersampling, were used to correct data imbalances and deficiencies, and these methods affected not only the predictive capabilities of these models but also the level of bias that propagated in the predictions. Overall, we assessed the bias of decision-making within these models, which has not been done in previous studies that built machine learning models for this dataset. 
+
+For random forest, we concluded from the metrics that the model presents predictive bias among races but no bias regarding genders. The feature importance for Caucasians is higher than African Americans, which is in turn higher than other races. On the contrary, though the feature importance for males is higher than that for females, the difference between the two is relatively small. Nevertheless, overall, the differences in feature importance values are small, which makes it hard for us to validate the significance of the bias based on feature importance only. For XGBoost, our conclusion was no bias existence. In alignment with our conclusion, race or gender is not one of the top ten most important features according to Shapley values.
+
+Lastly, there remain a few limitations to our study as well. To be specific, we did not provide statistical proof of the existence of bias since it was hard to validate the statistical significance of the differences between model performance metrics for different populations given the models’ generally poor performances on this imbalanced dataset. Hence, we resorted to Shapley values and feature importance tables to buttress our observations and findings. In addition, we removed quite a few instances and features due to missing values, which also meant that we lost a certain amount of prediction power for our models since the values for those features and instances were not completely empty. Future research could focus on improving the model performances by either using superior sampling and imputation techniques or overall better models. Future research could also attempt to provide statistical evidence to mathematically prove the existence of bias within the models for populations with certain characteristics. 
 
 
 
