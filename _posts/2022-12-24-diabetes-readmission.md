@@ -17,9 +17,9 @@ As a result, this project aims to explore predictive models for the readmission 
 
 **FYI:**
 
-- The manuscript for this project can be accessed through this [link](/assets/pdf/Diabetes_Readmission_Prediction.pdf).
+- **The manuscript for this project can be accessed through this [link](/assets/pdf/Diabetes_Readmission_Prediction.pdf).**
 
-- You can also click this [link](https://colab.research.google.com/drive/1MZb4R1nWX-qvdsH-_v-HjSxYEhjN6Yxx?usp=sharing) to access this project's Colab Notebook.
+- **You can also click this [link](https://colab.research.google.com/drive/1MZb4R1nWX-qvdsH-_v-HjSxYEhjN6Yxx?usp=sharing) to access this project's Colab Notebook.**
 
 ## Models
 
