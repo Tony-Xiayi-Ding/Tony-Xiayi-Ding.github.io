@@ -10,8 +10,8 @@ I am currently a first year Master's student at Harvard University Department of
 
 This personal website is dedicated to showcase some of the projects that I've done recently. Here's a list of my projects that are on this website:
 
-- Project 1: My BST-260 Final Project on All-NBA teams prediction (using R). 
-- Project 2: Diabetes Readmission Prediction (using Python)
+- [Project 1](https://tony-xiayi-ding.github.io/BST260-Final-Project/): My BST-260 Final Project on All-NBA teams prediction (using R). 
+- [Project 2](https://tony-xiayi-ding.github.io/2022-12-24-diabetes-readmission/): Diabetes Readmission Prediction (using Python)
 
 
 I'm also listed on the official [Harvard webiste](https://www.hsph.harvard.edu/biostatistics/masters-students/) if you would like to check it out.
