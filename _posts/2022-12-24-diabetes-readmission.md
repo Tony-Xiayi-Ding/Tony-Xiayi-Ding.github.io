@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/diabetes.jpeg
 thumbnail-img: /assets/img/diabetes.jpeg
 share-img: /assets/img/diabetes.jpeg
-tags: [Python, Machine Learning]
+tags: [Python, Machine Learning, Healthcare]
 comments: true
 ---
 
