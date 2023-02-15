@@ -17,12 +17,13 @@ By cleaning a [cancer mortality dataset](https://github.com/hms-dbmi/bmi706-2022
 
 ## Models
 
+[![Cancer_viz111](/assets/img/Cancer_Viz.png 'Cancer_Viz222')](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/)
 
 ### Logistic Regression
 
 ROC curves for logistic regression models with L2 and L1 penalizations:
 
-![LGR_ROC](/assets/img/Logistic_Regression_ROC_Curves.png)
+![Cancer_Viz](/assets/img/Cancer_Viz.png)
 
 The performance of our baseline logistic regression model was considered poor as we derived an AUC score of around 0.5(0.5054 for L2-penalized and 0.5032 for L1-penalized). Though the accuracy of this model was high at 0.89, it was solely due to the fact that the model was trying to predict every instance to be a negative label, which also happened to be the dominating label in our datasets, including the test set.
 
