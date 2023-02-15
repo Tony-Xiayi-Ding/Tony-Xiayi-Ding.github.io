@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Diabetes Readmission Prediction
-subtitle: Excerpt from project report
+title: Age-specific Cancer Mortality Rate
+subtitle: An interactive visualization
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/diabetes.jpeg
 thumbnail-img: /assets/img/diabetes.jpeg
 share-img: /assets/img/diabetes.jpeg
-tags: [Python, Machine Learning, Healthcare]
+tags: [Python, Interactive Visualization, Healthcare]
 comments: true
 ---
 
@@ -19,7 +19,7 @@ As a result, this project aims to explore predictive models for the readmission 
 
 - **The manuscript for this project can be accessed through this [link](/assets/pdf/Diabetes_Readmission_Prediction.pdf).**
 
-- **You can also click this [link](https://colab.research.google.com/drive/1eioghlOmz1_r8cVeEASUk_DKY2ar9dpd?usp=share_link) to access this project's Colab Notebook.**
+- **You can also click this [link](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/) to access the interactive visualization.**
 
 ## Models
 
