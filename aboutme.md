@@ -13,7 +13,7 @@ This personal website is dedicated to showcase some of the projects that I've do
 
 - [Project 1](https://tony-xiayi-ding.github.io/BST260-Final-Project/): Prediction on All-NBA Teams Selection (using **R**). 
 - [Project 2](https://tony-xiayi-ding.github.io/2022-12-24-diabetes-readmission/): Diabetes Hospital Readmission Prediction (using **Python**)
-- [Project 3](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/): Interactive Data Visualization on Age-specific Cancer Mortality Rates
+- [Project 3](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/): Interactive Data Visualization on Age-specific Cancer Mortality Rates (using **Python**)
 
 
 I'm also listed on the official [Harvard webiste](https://www.hsph.harvard.edu/biostatistics/masters-students/) if you would like to check it out.
