@@ -16,5 +16,5 @@ Click on the visualizaiton below to play with it!
 
 [![Cancer_viz](/assets/img/Cancer_Viz.png 'Cancer_Viz')](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/)
 
-You can click **[here](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/)** to access the interactive visualization.
+You can also click **[here](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/)** to access the interactive visualization.
 
