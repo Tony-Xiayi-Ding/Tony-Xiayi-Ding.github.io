@@ -3,9 +3,9 @@ layout: post
 title: COVID-19 Cases, Deaths, and Vaccinations in US
 subtitle: An interactive visualization
 gh-repo: daattali/beautiful-jekyll
-cover-img: /assets/img/Cancer_Cell.jpeg
-thumbnail-img: /assets/img/Cancer_Cell.jpeg
-share-img: /assets/img/Cancer_Cell.jpeg
+cover-img: /assets/img/COVID.jpeg
+thumbnail-img: /assets/img/COVID.jpeg
+share-img: /assets/img/COVID.jpeg
 tags: [Python, Interactive Visualization, Public Health]
 comments: true
 ---
