@@ -14,7 +14,7 @@ This interactive visualization uses a Python-based app framework called **stream
 
 Click on the visualizaiton below to play with it!
 
-[![Cancer_viz](/assets/img/Cancer_Viz.png 'Cancer_Viz')](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/)
+[![COVID_viz](/assets/img/COVID_Viz.png 'COVID_Viz')](https://tony-xiayi-ding-covid-19-visualizations-streamlit-app-kxppyx.streamlit.app/)
 
 You can also click **[here](https://tony-xiayi-ding-covid-19-visualizations-streamlit-app-kxppyx.streamlit.app/)** to access the interactive visualization.
 
