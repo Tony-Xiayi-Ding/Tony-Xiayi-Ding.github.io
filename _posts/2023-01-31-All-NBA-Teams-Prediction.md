@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Diabetes Readmission Prediction
+title: All-NBA teams Selection Prediction
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/diabetes.jpeg
 thumbnail-img: /assets/img/diabetes.jpeg
 share-img: /assets/img/diabetes.jpeg
-tags: [Python, Machine Learning, Healthcare]
+tags: [R, Machine Learning, NBA]
 comments: true
 ---
 
