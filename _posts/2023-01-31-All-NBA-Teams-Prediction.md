@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All-NBA teams Selection Prediction
+title: All-NBA Teams Selection Prediction
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/diabetes.jpeg
