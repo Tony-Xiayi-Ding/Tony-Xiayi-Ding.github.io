@@ -11,7 +11,7 @@ comments: true
 ---
 
 
-**May.25th Update🎉:**
+**May. 25th Update🎉:**
 This interactive visualization won the **Bright Futures Award (2nd Place)** of the [2023 NNLM Data Visualization Contest](https://www.nnlm.gov/nec/resources/datavizchallenge) under the **Complex Visualization** category. [Here](https://news.nnlm.gov/nec/2023/05/30/nnlm-data-visualization-challenge-winners-announced/) is the official award announcement, and [here](https://zenodo.org/record/8021374) is our work summarized on Zenodo.
 
 --------------------------------------------------------------------------------------------------------
