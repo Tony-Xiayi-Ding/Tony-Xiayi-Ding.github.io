@@ -3,9 +3,9 @@ layout: post
 title: All-NBA Teams Selection Prediction
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
-cover-img: /assets/img/diabetes.jpeg
-thumbnail-img: /assets/img/diabetes.jpeg
-share-img: /assets/img/diabetes.jpeg
+cover-img: /assets/img/NBA.jpg
+thumbnail-img: /assets/img/NBA.jpg
+share-img: /assets/img/NBA.jpg
 tags: [R, Machine Learning, NBA]
 comments: true
 ---
