@@ -11,15 +11,16 @@ comments: true
 ---
 
 
-Every year, there are more than 450 basketball players that play in a single NBA season, but only 15 of them would get selected into the All-NBA teams for that specific season. As a huge NBA fan, it makes me wonder what makes these 15 players stand out from all the NBA players. Consequently, this project will be tyring to asnwer the question of: what characteristics of an NBA player are more indicative of selection to the All-NBA teams, and to what extent can I predict the selection of All-NBA team using the players’ statistics?
+Every year, there are more than 450 basketball players that play in a single NBA season, but only 15 of them would get selected into the All-NBA teams for that specific season. As a huge NBA fan, it makes me wonder what makes these 15 players stand out from all the NBA players. As a result, this project will be trying to locate the top features of an NBA player that are indicative of All-NBA teams selection, and to what extent can I predict the selection of All-NBA team using the players’ statistics?
     
-As a result, this project aims to explore predictive models for the readmission of diabetic patients as well as to determine if there are any potential biases in the decision-making processes of these models. By applying models such as logistic regression, XGBoost, and random forest, we found that model designs for building a predictive program on a diabetes hospital readmissions dataset can indeed introduce a certain amount of bias. It was also found that there were more Caucasian patients being readmitted to the hospital than actually needed, and non-Caucasian patients who should be readmitted to the hospital are not predicted by the models to experience readmittance as often compared to Caucasian patients. Furthermore, by comparing the XGBoost and random forest models, the XGBoost models tend to have more equitable predictions while still maintaining comparable predictive ability.
+A total of two datasets were used in this project, namely *Seasons_Stats.csv* and *All.NBA.1984-2018.csv*. These two datasets were all originally parsed from a website called [Basketball Reference](https://www.basketball-reference.com/).
+
+- The Seasons_Stats.csv file can be accessed through this [link](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv). This dataset contains players’ game statistics from year 1950 to 2017, and each column represents an attribute of that player. These attributes include basic statistics such as games played (G) and total points scored in that season (PTS) as well as the more advanced metrics such as Win Shares (WS), which is an estimate of the number of wins contributed by that player.
+
+- The All.NBA.1984-2018.csv file can be accessed through this [link](https://www.kaggle.com/code/kerneler/starter-all-nba-players-1984-2018-e8f3592a-1/data?select=All.NBA.1984-2018.csv). This dataset contains all the players that are selected to be in All-NBA teams starting from the 1984-1985 season to the 2016-2017 season. One thing to note is that before the 1988-1989 season, only 2 teams of All-NBA teams were selected each year; and starting from the 1988-1989 season, a total of 3 teams of All-NBA teams were selected each year.
 
 **FYI:**
-
-- **The manuscript for this project can be accessed through this [link](/assets/pdf/Diabetes_Readmission_Prediction.pdf).**
-
-- **You can also click this [link](https://colab.research.google.com/drive/1eioghlOmz1_r8cVeEASUk_DKY2ar9dpd?usp=share_link) to access this project's Colab Notebook.**
+- **You can also click this [link](https://tony-xiayi-ding.github.io/BST260-Final-Project/) to access this project's showcase webpage.**
 
 ## Models
 
