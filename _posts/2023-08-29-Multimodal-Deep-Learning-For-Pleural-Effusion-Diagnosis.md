@@ -1,7 +1,7 @@
 ---
 layout: post
-title: COVID-19 Cases, Deaths, and Vaccinations in US
-subtitle: An interactive visualization
+title: Pleural Effusion Diagnosis: Multimodal Approaches Using Deep Neural Networks and Transformer-based Architectures
+subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/COVID.jpeg
 thumbnail-img: /assets/img/COVID.jpeg
