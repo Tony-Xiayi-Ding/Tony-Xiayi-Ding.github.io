@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multimodal Approaches for Pleural Effusion Diagnosis Using Deep Neural Networks and Transformer Architectures
+title: Multimodal Deep Learning for Pleural Effusion Diagnosis
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/COVID.jpeg
