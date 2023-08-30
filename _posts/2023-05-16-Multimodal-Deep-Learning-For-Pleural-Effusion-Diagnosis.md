@@ -30,7 +30,7 @@ Chest X-rays are among the most commonly ordered imaging tests. Applying deep le
 
 ![CV_Results](/assets/img/PE_IMG1.png)
 
-![Model_Interpretability](/assets/img/PE_SM_GradCAM.png)
+![Model_Interpretability](/assets/img/PE_SM_GradCAM.png){: .mx-auto.d-block :}
 
 For our baseline imaging model, the VGG16-based CNN with data augmentation, it ultimately achieved a test accuracy of 84.92% and an AUC of 0.9099. Nevertheless, this model consistently overfitted on the training data, regardless of the application of data augmentation techniques, as shown in Figure 1a. Consequently, this indicates that this model lacks a good generalizability to unseen data beyond the overfitting point.
 
