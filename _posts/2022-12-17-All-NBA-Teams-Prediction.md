@@ -18,7 +18,7 @@ Every year, there are more than 450 basketball players that play in a single NBA
 
 ## Dataset
 
-A total of two datasets were used in this project, namely *Seasons_Stats.csv* and *All.NBA.1984-2018.csv*. These two datasets were all originally parsed from a website called [Basketball Reference](https://www.basketball-reference.com/).
+A total of two datasets were used in this project, namely *Seasons_Stats.csv* and *All.NBA.1984-2018.csv*. These two datasets were all originally parsed from a website called [Basketball Reference](https://www.basketball-reference.com/){: target="_blank" rel="noopener noreferrer"}.
 
 - The Seasons_Stats.csv file can be accessed through this [link](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv){: target="_blank" rel="noopener noreferrer"}. This dataset contains players’ game statistics from year 1950 to 2017, and each column represents an attribute of that player. These attributes include basic statistics such as games played (G) and total points scored in that season (PTS) as well as the more advanced metrics such as Win Shares (WS), which is an estimate of the number of wins contributed by that player.
 
