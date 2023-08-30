@@ -22,7 +22,7 @@ author: Tony Ding
 navbar-links:
   About Me: "aboutme"
   My Projects:
-    - All-NBA Teams Prediction: "https://tony-xiayi-ding.github.io/BST260-Final-Project/"
+    - All-NBA Teams Prediction: "https://tony-xiayi-ding.github.io/BST260-Final-Project/"{: target="_blank" rel="noopener noreferrer"}
     - Diabetes Readmission Prediction and Model Assessment: "https://tony-xiayi-ding.github.io/2022-12-24-diabetes-readmission/"
     - Interactive Data Visualization on Age-specific Cancer Mortality Rates: "https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/"
     - Interactive Data Visualization on COVID-19 Cases, Deaths, and Vaccinations: "https://tony-xiayi-ding-covid-19-visualizations-streamlit-app-kxppyx.streamlit.app/"
