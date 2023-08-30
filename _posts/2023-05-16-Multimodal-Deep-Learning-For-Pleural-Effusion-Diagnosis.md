@@ -3,8 +3,8 @@ layout: post
 title: Multimodal Deep Learning for Pleural Effusion Diagnosis
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
-cover-img: /assets/img/Pleural_Effusion.jpeg
-thumbnail-img: /assets/img/Pleural_Effusion.jpeg
+cover-img: /assets/img/Pleural_Effusion_new.jpeg
+thumbnail-img: /assets/img/Pleural_Effusion_new.jpeg
 share-img: /assets/img/Pleural_Effusion.jpeg
 tags: [Python, Deep Learning, Computer Vision, NLP, MIMIC-CXR]
 comments: true
