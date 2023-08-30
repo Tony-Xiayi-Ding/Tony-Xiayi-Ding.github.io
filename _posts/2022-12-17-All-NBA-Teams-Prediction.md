@@ -14,15 +14,15 @@ comments: true
 Every year, there are more than 450 basketball players that play in a single NBA season, but only 15 of them would get selected into the All-NBA teams for that specific season. As a huge NBA fan, it makes me wonder what makes these 15 players stand out from all the NBA players. As a result, this project will be trying to locate the top features of an NBA player that are indicative of All-NBA teams selection, and to what extent can I predict the selection of All-NBA team using the players’ statistics?
 
 **FYI:**
-- **Please click this [link](https://tony-xiayi-ding.github.io/BST260-Final-Project/) to read all the other sections (Introduction, Results, and Conclusion) of this project.**
+- **You can lick this [link](https://tony-xiayi-ding.github.io/BST260-Final-Project/){: target="_blank" rel="noopener noreferrer"} to read all the other sections (Introduction, Results, and Conclusion) of this project.**
 
 ## Dataset
 
 A total of two datasets were used in this project, namely *Seasons_Stats.csv* and *All.NBA.1984-2018.csv*. These two datasets were all originally parsed from a website called [Basketball Reference](https://www.basketball-reference.com/).
 
-- The Seasons_Stats.csv file can be accessed through this [link](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv). This dataset contains players’ game statistics from year 1950 to 2017, and each column represents an attribute of that player. These attributes include basic statistics such as games played (G) and total points scored in that season (PTS) as well as the more advanced metrics such as Win Shares (WS), which is an estimate of the number of wins contributed by that player.
+- The Seasons_Stats.csv file can be accessed through this [link](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv){: target="_blank" rel="noopener noreferrer"}. This dataset contains players’ game statistics from year 1950 to 2017, and each column represents an attribute of that player. These attributes include basic statistics such as games played (G) and total points scored in that season (PTS) as well as the more advanced metrics such as Win Shares (WS), which is an estimate of the number of wins contributed by that player.
 
-- The All.NBA.1984-2018.csv file can be accessed through this [link](https://www.kaggle.com/code/kerneler/starter-all-nba-players-1984-2018-e8f3592a-1/data?select=All.NBA.1984-2018.csv). This dataset contains all the players that are selected to be in All-NBA teams starting from the 1984-1985 season to the 2016-2017 season. One thing to note is that before the 1988-1989 season, only 2 teams of All-NBA teams were selected each year; and starting from the 1988-1989 season, a total of 3 teams of All-NBA teams were selected each year.
+- The All.NBA.1984-2018.csv file can be accessed through this [link](https://www.kaggle.com/code/kerneler/starter-all-nba-players-1984-2018-e8f3592a-1/data?select=All.NBA.1984-2018.csv){: target="_blank" rel="noopener noreferrer"}. This dataset contains all the players that are selected to be in All-NBA teams starting from the 1984-1985 season to the 2016-2017 season. One thing to note is that before the 1988-1989 season, only 2 teams of All-NBA teams were selected each year; and starting from the 1988-1989 season, a total of 3 teams of All-NBA teams were selected each year.
 
 ## Conclusion and Discussion
 
