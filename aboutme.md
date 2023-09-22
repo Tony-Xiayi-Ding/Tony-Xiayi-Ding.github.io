@@ -6,7 +6,7 @@ subtitle: MS in Health Data Science at Harvard University
 
 ### My story
 
-I am currently a second year Master's student at Harvard University Department of Biostatistics, and I am also cross registered at MIT Department of Electrical Engineering and Computer Science. You can reach me at **xiayiding@hsph.harvard.edu** and **tding@mit.edu** or find me on [LinkedIn](https://www.linkedin.com/in/xiayi-tony-ding-abb112177/){: target="_blank" rel="noopener noreferrer"}. Feel free to check out my lastest [Resume](/assets/pdf/Tony_Ding_Resume.pdf){: target="_blank" rel="noopener noreferrer"} as well!
+I am currently a second year Master's student at Harvard University Department of Biostatistics, and I am also cross registered at MIT Department of Electrical Engineering and Computer Science. You can reach me at **xiayiding@hsph.harvard.edu** and **tding@mit.edu** or find me on [LinkedIn](https://www.linkedin.com/in/xiayi-tony-ding-abb112177/){: target="_blank" rel="noopener noreferrer"}. Feel free to check out my lastest [Resume](/assets/pdf/Tony_Ding_Resume_Full_Updated.pdf){: target="_blank" rel="noopener noreferrer"} as well!
 
 #### About this website
 This personal website is dedicated to showcase some of the projects that I've done recently. Here's a list of my projects that are on this website:
