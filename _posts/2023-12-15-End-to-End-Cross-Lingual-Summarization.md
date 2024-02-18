@@ -1,18 +1,18 @@
 ---
 layout: post
-title: End-to-End Cross-Lingual Summarization Multilingual Pre-training
+title: End-to-End Cross-Lingual Summarization with Multilingual Pre-training
 subtitle: Excerpt from project report
 gh-repo: daattali/beautiful-jekyll
 cover-img: /assets/img/Pleural_Effusion_new.jpeg
 thumbnail-img: /assets/img/Pleural_Effusion.jpeg
 share-img: /assets/img/Pleural_Effusion.jpeg
-tags: [Python, Deep Learning, NLP, MIMIC-CXR]
+tags: [Python, Deep Learning, NLP, Transformer, CLS]
 comments: true
 ---
 
 
 ## Abstract
-Chest X-rays are among the most commonly ordered imaging tests. Applying deep learning techniques to X-ray images is a typical application of computer vision in healthcare. Nevertheless, using X-ray images alone does not always lead to generalizable model performances. Combining patients’ clinical reports, which contain rich and important patient diagnostic information, with X-ray images could give the model more information for prediction. Consequently, this project will be focusing on deriving and examining the best fusion strategies for implementing a multimodal approach with regard to pleural effusion prediction. Using X-ray images and clinical text reports, we mainly combined VGG16 with DistilBERT to better predict the presence of pleural effusion. Two sets of fusion strategies are proposed, namely early fusion, where we concatenate the learned vector representations of images and texts before classification, and late fusion, where we leverage the predicted probabilities from the two modalities. Ultimately, we found that the late fusion multimodality model with an elastic net regularized logistic regression model achieved the best overall performance, with an AUC value of 0.9887. On the other hand, the early fusion strategy achieved inferior results, which indicates that the early fusion strategy that we utilized here is not specifically suitable for integrating X-ray images with clinical text data.
+Chest 
 
 
 **FYI:**
@@ -26,10 +26,7 @@ Chest X-rays are among the most commonly ordered imaging tests. Applying deep le
 - MIMIC-CXR Database v2.0.0
   - X-ray images in DICOM files
   - Contains clinical reports
-- MIMIC-CXR-JPG Database v2.0.0
-  - X-ray images in JPG files
-- 5.5 TB in total size
-  - Due to the large size of the files and limitations of computing power, we eventually only used about 10% of the entire dataset
+
 
 ## Results
 
@@ -53,9 +50,7 @@ Both methods above highlighted similar regions. In addition, aside from the lung
 
 ## Conclusion
 
-Overall, this project demonstrated two multimodal fusion strategies that can integrate clinical text data with X-ray image data for pleural effusion prediction. We compared their performances with our baseline VGG16 model and found that the late fusion multimodality model with an elastic net regularized logistic regression model has the best overall performance, achieving an AUC score of 0.9887. On the other hand, the early fusion strategy that concatenates learned X-ray image features and clinical text features only achieved slightly worse results than our baseline model did. Therefore, we can infer that the early fusion strategy that we utilized here is not suitable for integrating X-ray images with clinical text data. Consequently, we have shown that combining textual data with imaging data in clinical use could aid disease prediction, but to achieve better results using an early fusion architecture, a more complex and robust architecture will be needed. 
-
-Future study can work on improving early fusion architectures by identifying the most effective representations of text data and how the clinical text information can be integrated with X-ray images through the interaction and consensus between them. Furthermore, the generalizability of such models is unsure and remains an open problem since this project has only shown that clinical text can be supportive to the analysis of imaging data that are from the same database.
+Overall,
 
 ## References
 
