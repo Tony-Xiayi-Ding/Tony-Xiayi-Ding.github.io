@@ -39,7 +39,7 @@ The Feature Model further integrates multilingual pre-training into CLS. In this
    
 
 ## Results
-
+![CLS_Results](/assets/img/NLP_Result.png)
 
 ## Conclusion
 
