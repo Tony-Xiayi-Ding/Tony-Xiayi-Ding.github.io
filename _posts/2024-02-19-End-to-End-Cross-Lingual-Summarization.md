@@ -39,6 +39,7 @@ The Feature Model further integrates multilingual pre-training into CLS. In this
    
 
 ## Results
+Evaluation results on the test set of EH2ZHSUM and the external dataset ClidSum are shown below. Overall, the Feature Model outperforms the other two significantly, based on both the quantitative and qualitative(i.e. summarization) results.
 ![CLS_Results](/assets/img/NLP_Result.png)
 
 ## Conclusion
