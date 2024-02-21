@@ -16,6 +16,7 @@ This personal website is dedicated to showcase some of the projects that I've do
 - [Project 3](https://tony-xiayi-ding-bmi706-2023-ps3-streamlit-app-bg5nwe.streamlit.app/){: target="_blank" rel="noopener noreferrer"}: Interactive Data Visualization on Age-specific Cancer Mortality Rates (using **Python**)
 - [Project 4](https://tony-xiayi-ding-covid-19-visualizations-streamlit-app-kxppyx.streamlit.app/){: target="_blank" rel="noopener noreferrer"}: Interactive Data Visualization on COVID-19 Cases, Deaths, and Vaccinations Data in US (using **Python**)
 - [Project 5](https://tony-xiayi-ding.github.io/2023-05-16-Multimodal-Deep-Learning-For-Pleural-Effusion-Diagnosis/){: target="_blank" rel="noopener noreferrer"}: Multimodal Deep Learning for Pleural Effusion Diagnosis (using **Python**)
+- [Project 6]()
 
 
 I'm also listed on the official [Harvard webiste](https://www.hsph.harvard.edu/biostatistics/masters-students/){: target="_blank" rel="noopener noreferrer"} if you would like to check it out.
