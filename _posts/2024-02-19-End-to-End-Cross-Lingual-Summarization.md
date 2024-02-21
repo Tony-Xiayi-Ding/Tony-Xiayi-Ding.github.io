@@ -36,14 +36,15 @@ Building on the baseline, we propose our first modeling approach for better cros
 
 ### Feature Model
 The Feature Model further integrates multilingual pre-training into CLS. In this architectural design, we fine-tune mBART for the CLS task on our training data. Specifically, we fine-tune the linear layer of mBART to adapt it to the requirements of summarization so that it can generate concise and accurate summaries. Additionally, we also unfreeze two out of ten cross-attention blocks of the mBART decoder. This allows the decoder to recalibrate and learn attention weights with regards to the source texts that are more suited for summarization tasks, which may differ from those required in translation tasks. By doing so, the model is expected to gain a more nuanced understanding of the text and facilitate better content selection and synthesis.
-   
+
+![CLS_Models](/assets/img/NLP_Models.png)
 
 ## Results
 Evaluation results on the test set of EH2ZHSUM and the external dataset ClidSum are shown below. Overall, the Feature Model outperforms the other two significantly, based on both the quantitative and qualitative(i.e. summarization) results.
 ![CLS_Results](/assets/img/NLP_Result.png)
 
 ## Conclusion
-
+Our findings demonstrate that the efficacy of models in cross-lingual summarization is significantly enhanced by multilingual pre-training. In particular, employing a greater number of pre-trained weights from many layers of a multilingual model results in a much higher degree of success compared to utilizing only the embeddings. This highlights the importance of knowledge transfer in multilingual pre-training for improving the performance of cross-lingual summarization. By leveraging the comprehensive linguistic knowledge acquired during pre-training, these models can achieve a higher level of success in generating accurate, relevant, and contextually appropriate summaries across different languages.
 
 ## References
 
