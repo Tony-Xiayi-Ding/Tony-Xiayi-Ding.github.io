@@ -19,4 +19,4 @@ This personal website is dedicated to showcase some of the projects that I've do
 - [Project 6](https://tony-xiayi-ding.github.io/2023-12-15-End-to-End-Cross-Lingual-Summarization/){: target="_blank" rel="noopener noreferrer"}: End-to-End Cross-Lingual Summarization with Multilingual Pre-training (using **Python**)
 
 
-I'm also listed on the official [Harvard webiste](https://www.hsph.harvard.edu/biostatistics/masters-students/){: target="_blank" rel="noopener noreferrer"} if you would like to check it out.
+I'm also listed on the official [Harvard webiste](https://www.hsph.harvard.edu/biostatistics/masters-students/){: target="_blank" rel="noopener noreferrer"}!
