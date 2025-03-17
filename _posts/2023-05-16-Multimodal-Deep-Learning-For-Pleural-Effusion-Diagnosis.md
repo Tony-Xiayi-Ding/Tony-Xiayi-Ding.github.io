@@ -19,7 +19,7 @@ Chest X-rays are among the most commonly ordered imaging tests. Applying deep le
 
 - **The manuscript for this project can be accessed through this [link](/assets/pdf/Pleural_Effusion_Multimodal_Deep_Learning.pdf){: target="_blank" rel="noopener noreferrer"}.**
 
-- **You can also click this [link](https://docs.google.com/presentation/d/1b0KqUYQFOT9HYibQCC77nqMCveSSe9pHJa5vpG1ZnjI/edit?usp=sharing){: target="_blank" rel="noopener noreferrer"} to check out the short presentation slides that I made for this project.**
+- **You can also click this [link](https://docs.google.com/presentation/d/10ERS9P-z3ecCsczizbsAkiV1M_e4sN4qL4Q5v4_5kpE/edit?usp=sharing){: target="_blank" rel="noopener noreferrer"} to check out the short presentation slides that I made for this project.**
 
 
 ## Data
