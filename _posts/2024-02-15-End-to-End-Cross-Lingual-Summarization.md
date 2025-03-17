@@ -18,7 +18,7 @@ Cross-lingual summarization (CLS) generates summaries in a target language from 
 
 - **The manuscript for this project can be accessed through this [link](/assets/pdf/NLP_Project_CLS.pdf){: target="_blank" rel="noopener noreferrer"}.**
 
-- **You can also click this [link](https://docs.google.com/presentation/d/1Itx_O6KZS82Wp6SfkFX1Wvu4uou5SJQ8_7ZIzwQ__pw/edit?usp=sharing){: target="_blank" rel="noopener noreferrer"} to check out the conference poster for this paper.**
+- **You can also click this [link](https://docs.google.com/presentation/d/1p5Co1LkEPBHs2TM1Mn9wytvJgJgSKqOxHRhgKZzfDgc/edit?usp=sharing){: target="_blank" rel="noopener noreferrer"} to check out the conference poster for this paper.**
 
 
 ## Data
