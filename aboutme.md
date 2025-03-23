@@ -6,7 +6,9 @@ subtitle: Data Scientist @ CVS Health
 
 ### My story
 
-I graduated from **Harvard University** in May 2024 with a Master of Science degree in **Health Data Science**. I was also cross-registered at the **MIT** Department of Electrical Engineering and Computer Science from 2022-2024. I am currently working at CVS Health as a **Data Scientist** on several Gen-AI projects under the Unit Cost & Operations Analytics Team.
+I graduated from **Harvard University** in May 2024 with a Master of Science degree in **Health Data Science**. I was also cross-registered at the **MIT** Department of Electrical Engineering and Computer Science from 2022-2024. 
+
+I am currently working at CVS Health as a **Data Scientist** on several Gen-AI projects under the Unit Cost & Operations Analytics Team.
 
 For more detail, feel free to check out my lastest [Resume](/assets/pdf/Tony_Ding_Resume_Full.pdf){: target="_blank" rel="noopener noreferrer"}! You can also reach me at **xiayiding.tony@outlook.com** or find me on [LinkedIn](https://www.linkedin.com/in/xiayi-tony-ding-abb112177/){: target="_blank" rel="noopener noreferrer"}. 
 
