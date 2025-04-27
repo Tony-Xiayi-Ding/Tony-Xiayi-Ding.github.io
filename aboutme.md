@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tony Ding
-subtitle: Data Scientist @ CVS Health
+subtitle: NLP Data Scientist @ CVS Health
 ---
 
 ### My story
