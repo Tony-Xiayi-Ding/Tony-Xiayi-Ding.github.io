@@ -16,4 +16,4 @@ This personal website is dedicated to showcase some of the AI/ML projects that I
 - Project 4: [Multimodal Deep Learning for Pleural Effusion Diagnosis](https://tony-xiayi-ding.github.io/2023-05-16-Multimodal-Deep-Learning-For-Pleural-Effusion-Diagnosis/){: target="_blank" rel="noopener noreferrer"}
 - Project 3: [Interactive Data Visualization on COVID-19 Cases, Deaths, and Vaccinations Data in US](https://tony-xiayi-ding.github.io/2023-03-09-COVID19-Cases-Deaths-and-Vaccinations-in-US/){: target="_blank" rel="noopener noreferrer"}
 - Project 2: [Diabetes Hospital Readmission Prediction](https://tony-xiayi-ding.github.io/2022-12-24-diabetes-readmission/){: target="_blank" rel="noopener noreferrer"} 
-- Project 1: [All-NBA Teams Selection Prediction](https://tony-xiayi-ding.github.io/2022-12-17-All-NBA-Teams-Prediction/){: target="_blank" rel="noopener noreferrer"}: 
+- Project 1: [All-NBA Teams Selection Prediction](https://tony-xiayi-ding.github.io/2022-12-17-All-NBA-Teams-Prediction/){: target="_blank" rel="noopener noreferrer"}
