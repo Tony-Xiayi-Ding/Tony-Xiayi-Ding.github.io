@@ -72,7 +72,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is dedicated to showcase projects of Tony Ding.
+rss-description: This website is dedicated to showcase Tony Ding's recent AI/ML projects.
 
 ###########################
 # --- General options --- #
