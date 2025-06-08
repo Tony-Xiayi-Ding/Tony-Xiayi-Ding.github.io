@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Tony Ding
-subtitle: NLP Data Scientist @ CVS Health
+subtitle: LLM Data Scientist @ CVS Health
 ---
 
 ### My story
 
 I graduated from **Harvard University** in May 2024 with a Master of Science degree in **Health Data Science**. I was also cross-registered at the **MIT** Department of Electrical Engineering and Computer Science from 2022-2024. 
 
-I am currently working at CVS Health as an **NLP Data Scientist** on several **LLM** and **GenAI** projects. For more detail, feel free to check out my lastest [Resume](/assets/pdf/Tony_Ding_Resume_Full.pdf){: target="_blank" rel="noopener noreferrer"}! You can also find me on [LinkedIn](https://www.linkedin.com/in/xiayi-tony-ding-abb112177/){: target="_blank" rel="noopener noreferrer"} or email me at **xiayiding.tony@outlook.com**. 
+I am currently working at CVS Health as an **LLM Data Scientist** on several **GenAI** projects. For more detail, feel free to check out my lastest [Resume](/assets/pdf/Tony_Ding_Resume_Full.pdf){: target="_blank" rel="noopener noreferrer"}! You can also find me on [LinkedIn](https://www.linkedin.com/in/xiayi-tony-ding-abb112177/){: target="_blank" rel="noopener noreferrer"} or email me at **xiayiding.tony@outlook.com**. 
 
 #### About this website
 This personal website is dedicated to showcase some of my recent AI/ML projects:
