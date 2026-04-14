@@ -8,7 +8,7 @@ subtitle: Machine Learning Data Scientist @ Apple 
 
 I graduated from **Harvard University** in May 2024 with a Master of Science degree in **Health Data Science**. I was also cross-registered at the **MIT** Department of Electrical Engineering and Computer Science from 2022-2024. 
 
-I am currently working at **Apple** as a **Machine Learning - Data Scientist** on **Agentic AI and Eval**. For more detail, feel free to check out my lastest [Resume](/assets/pdf/Tony_Ding_Resume_Full.pdf){: target="_blank" rel="noopener noreferrer"}! You can also find me on [LinkedIn](https://www.linkedin.com/in/xiayi-tony-ding/){: target="_blank" rel="noopener noreferrer"} or email me at **xiayiding.tony@outlook.com**. 
+I am currently working at **Apple** as a **Machine Learning - Data Scientist** on **Agentic AI and Eval**. For more detail, feel free to check out my lastest [Resume](/assets/pdf/Tony_Ding_Resume_Latest.pdf){: target="_blank" rel="noopener noreferrer"}! You can also find me on [LinkedIn](https://www.linkedin.com/in/xiayi-tony-ding/){: target="_blank" rel="noopener noreferrer"} or email me at **xiayiding.tony@outlook.com**. 
 
 #### About this website
 This personal website is dedicated to showcase some of my recent AI/ML projects:
